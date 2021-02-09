@@ -1,3 +1,6 @@
+http://www.mcdonaldland.info/files/designpatterns/designpatternscard.pdf
+https://refactoring.guru/design-patterns/structural-patterns
+
 quiz time!
 
 ![Bridge UML class diagram.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Bridge_UML_class_diagram.svg/500px-Bridge_UML_class_diagram.svg.png)
