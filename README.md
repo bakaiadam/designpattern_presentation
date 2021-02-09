@@ -14,109 +14,35 @@ Convert the interface of a class into another interface clients expect
 <details>
 Adapter
 </details>
-
-
-
-
-
-
-
-
 Decouple an abstraction from an implementation so the two can vary independently
-
-
-
-
-
-
-Bridge
-
-
-
-
-
-
+<details>
+  Bridge
+</details>
 Compose objects into tree structures to represent part-whole hierarchies
-
-
-
-
-
-Composite
-
-
-
-
+<details>
+  Composite
+</details>
 Attach additional responsibilities to an object dynamically
-
-
-
-
-Decorator
-
-
-
-
-
-Facade
+<details>
+  Decorator
+</details>
 Provide a unified interface to a set of interfaces in a subsystem
-
-
-
-
-
+<details>
+Facade
+</details>
 Use sharing to support large numbers of fine-grained objects efficiently
-
-
-
+<details>
 Flyweight
-
-
-
-
+</details>
 Provide a surrogate or placeholder for another object to control access to it
-
-
-
+<details>
 Proxy
-
-
-
+</details>
 X is a structural design pattern that allows objects with incompatible interfaces to collaborate.
-
-
-
+<details>
 Adapter
-
-
-
-is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
-
-
-
+</details>
+X is a structural design pattern that lets you split a large class or a set of closely related classes into two separate hierarchies—abstraction and implementation—which can be developed independently of each other.
+<details>
 Bridge
-
-
-
-
-
-
-
-
-
-
-
-
-
- is a structural design pattern that lets you compose objects into tree structures and then work with these structures as if they were individual objects.
- 
- 
- 
- Composite
- 
- 
-
- is a structural design pattern that provides a simplified interface to a library, a framework, or any other complex set of classes.
- 
- 
- Facade
+</details>
